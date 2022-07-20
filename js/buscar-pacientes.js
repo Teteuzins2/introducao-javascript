@@ -1,4 +1,4 @@
-var botaoAdicionar = document.querySelector("buscar-pacientes")
+var botaoAdicionar = document.querySelector("#adicionar-pacientes")
 
 botaoAdicionar.addEventListener("click", function(){
     console.log("Busando pacientes...");
